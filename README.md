@@ -1,2 +1,2 @@
 # base-enc
-Basic encryption codes, open-source for newbies.
+Random encryption codes along with some easter egg pet projects.
