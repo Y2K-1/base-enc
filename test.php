@@ -1,5 +1,5 @@
 <?php
-
+//Prototype
 $password = "test";
 
 function generate_hash($password, $cost=11){
